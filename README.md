@@ -17,7 +17,7 @@ Rebecca and I have created an audio visualisation for the song Amsterdam by Noth
 
 # Instructions
 
-#what the controls are
+# What the controls are
 The controls are simple using switch statements to see each visual, the default mode is the automated visuals for the song and from there you can switch to each visual using the numbers. There is also an option to mute the audio and still have the  visuals by pressing ‘m’ and by pressing the space bar you can pause the visual and rewind the process back to the beginning of the song 
 # How it works
 
@@ -27,6 +27,9 @@ The controls are simple using switch statements to see each visual, the default 
 What I am most proud of is connecting Rebecca and my code together to create the automated case for the video. The timing for the visuals including mixing and matching the methods to create different backgrounds with visuals in front of it. Finding out what visuals looked good in which section of music was very satisfaction and getting the transitions right was very pleasing. I was also proud of the swirly background with the circular clock rotation, for this I was inspired by the image loading symbol but I wanted it to move to the music, I have to higher the sensitivity a lot so that it would work for the quiet part of the song
 -	Automation
 -	Swirley background and loading circles
+
+*Rebecca Foley*
+The end result of our assignment and how it looks all put together. I was most proud of getting the graphics to run in sync with the music. We used different processing libraries such as Minim to help analyse the music. Designing different graphics that coincided with the style and tempo of our song was a nice challenge. Designing the circle graphic with the pulsating rhythms is the part I’m most proud of.
 
 
 # link to youtube video
