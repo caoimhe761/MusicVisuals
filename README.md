@@ -1,11 +1,11 @@
 # Music Visualiser Project
 
-Name:
+Name: Caoimhe McCann and Rebecca Foley
 
-Student Number: 
+Student Number:  C20365106 and C20301121
 
 ## Instructions
-- Fork this repository and use it a starter project for your assignment
+- Fork this repository and use it a starter project for your assignment COMPLETE
 - Create a new package named your student number and put all your code in this package.
 - You should start by creating a subclass of ie.tudublin.Visual
 - There is an example visualiser called MyVisual in the example package
