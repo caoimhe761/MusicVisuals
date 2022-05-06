@@ -29,8 +29,6 @@ What I am most proud of is connecting Rebecca and my code together to create the
 -	Swirley background and loading circles
 
 
-# Markdown Tutorial
-
 # link to youtube video
-This is a [hyperlink](https://youtu.be/zmlkPOOQXtc)
+Link to the youtube video of the visualisation  [YOUTUBE](https://youtu.be/zmlkPOOQXtc)
 
